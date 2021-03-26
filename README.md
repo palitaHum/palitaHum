@@ -6,11 +6,7 @@
 
 
 My Git
--palitaHum/
--palitaHum/
--palitaHum/
--palitaHum/
--palitaHum/
+
 
 <!---
 palitaHum/palitaHum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
