@@ -4,9 +4,8 @@
 - 💞️ I’m looking the oppotunity meet to new friends or new social.
 - 📫 How to reach me @palitahumranan2018@gmail.com
 
-
 My Git
-
+https://palitahum.github.io/Java-Basic-1/
 
 <!---
 palitaHum/palitaHum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
